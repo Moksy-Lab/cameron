@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+.fdb-block {
+    padding: 30px 0;
+}
+
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+:root {
+    --primary-Color: #47D3A0;
+    --secondary-Color: ;
+    --text-Color: #1b2336;
+    --alert-Color: #0099ff;
+    --success-Color: #8BE0DD;
+    --warning-Color: #EE8800;
+    --error-Color: #ff1f59;
+    --grey-Color: #999;
+    --black-Color: #232323;
+    --main-Background-Color: #F8F8F8;
+    --secondary-Background-Color: ;
+    --secondary-Font: "Montserrat", sans-serif;
+    --button-padding: 11px 30px;
+    --button-border-radius: 6px;
+    --button-font-weight: 500;
+    --heading: 35px;
+    --heading-two: 25px;
+}
+/* headerhdmc0pmwml */
+.headerhdmc0pmwml .navbar-light .navbar-nav .nav-link{
+    color: var(--text-Color);
+}
+.headerhdmc0pmwml .navbar-light .navbar-nav .nav-link:hover{
+    color: var(--error-Color);
+}
+/* aboutd1e3f52aae36e7047 */
+.aboutd1e3f52aae36e7047 .DescriptionHeading {
+    font-size: 54px;
+    color: var(--text-Color);
+}
+.aboutd1e3f52aae36e7047 .DescriptionPara {
+    color: var(--grey-Color);
+    font-size: 18px;
+}
+.aboutd1e3f52aae36e7047 .btn-outline-secondary,
+.aboutd1e3f52aae36e7047 .btn-outline-secondary:hover,
+.aboutd1e3f52aae36e7047 .btn-outline-secondary:not(:disabled):not(.disabled):active{
+    color: var(--text-Color);
+    border-color: var(--primary-Color);
+    background-color: var(--primary-Color);
+    font-weight: var(--button-font-weight);
+}
+/* serviceebfcf165e4ae5852 */
+.serviceebfcf165e4ae5852 h2 {
+    font-size: var(--heading);
+}
+.serviceebfcf165e4ae5852 .font-weight-bold {
+    font-weight: 500 !important;
+}
+/* crunellaobWyteyCWzRLkMG */
+.crunellaobWyteyCWzRLkMG h1 {
+    font-size: 35px;
+}
+.crunellaobWyteyCWzRLkMG .fdb-block img + h1, .fdb-block img + h2 {
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
