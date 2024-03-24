@@ -22,7 +22,7 @@
     --main-Background-Color: #F8F8F8;
     --secondary-Background-Color: ;
     --secondary-Font: "Montserrat", sans-serif;
-    --button-padding: 11px 30px;
+    --button-padding: 5px 25px;
     --button-border-radius: 6px;
     --button-font-weight: 500;
     --heading: 35px;
@@ -66,14 +66,31 @@
 .crunellaobWyteyCWzRLkMG .fdb-block img + h1, .fdb-block img + h2 {
     margin-top: 15px;
 }
-
-
-
-
-
-
-
-
-
-
+/* aboute50d5193e4b9f737 */
+.aboute50d5193e4b9f737{
+    padding-bottom: 7em;
+}
+.aboute50d5193e4b9f737 h2{
+    font-size: var(--heading);
+}
+.aboute50d5193e4b9f737 .margin {
+    font-weight: var(--button-font-weight) !important;
+}
+.aboute50d5193e4b9f737 .searchBtn {
+    background-color: var(--primary-Color);
+    border-radius: var(--button-border-radius);
+    padding: var(--button-padding);
+    font-weight: var(--button-font-weight);
+}
+/* quickLinkq0c8d3826c0d518b0 */
+.quickLinkq0c8d3826c0d518b0 .quicklink{
+    font-size: 16px;
+}
+.quickLinkq0c8d3826c0d518b0 .quicklink a{
+    color: var(--black-Color);
+}
+.quickLinkq0c8d3826c0d518b0 .quicklink:hover {
+    background-color: var(--error-Color);
+    border: 2px solid var(--error-Color);
+}
 
