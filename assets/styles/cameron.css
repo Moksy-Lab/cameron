@@ -93,4 +93,52 @@
     background-color: var(--error-Color);
     border: 2px solid var(--error-Color);
 }
-
+/* funtushftac0ssp3mu */
+.funtushftac0ssp3mu{
+    padding: 6em;
+}
+.funtushftac0ssp3mu h1 {
+    font-size: var(--heading);
+}
+.funtushftac0ssp3mu  strong {
+    font-weight: var(--button-font-weight);
+}
+.funtushftac0ssp3mu h3 {
+    font-size: 25px;
+    margin-top: 15px;
+}
+/* productsp48b0eae471185cc5 */
+.productsp48b0eae471185cc5{
+    padding-bottom: 6em;
+}
+.productsp48b0eae471185cc5 .title {
+    color: var(--black-Color);
+}
+/* testimonialcohi0ajeo7e */
+.testimonialcohi0ajeo7e .text-muted {
+    color: var(--text-Color) !important;
+}
+/* teamtmpxpt1wbh8 */
+.teamtmpxpt1wbh8 h1 {
+    font-size: var(--heading);
+}
+.teamtmpxpt1wbh8  strong {
+    font-weight: var(--button-font-weight);
+}
+/* .footerb9fc05b1281e93c03 */
+.footerb9fc05b1281e93c03 .footer-top .widget-title{
+    font-size: var(--heading-two);
+}
+.footerb9fc05b1281e93c03 .small-post-item .post-date{
+    color: var(--primary-Color);
+}
+.footerb9fc05b1281e93c03 .courses-link-list li a:hover{
+    color: var(--primary-Color);
+}
+.footerb9fc05b1281e93c03 .news-letter-form input[type="submit"]{
+    background-color: var(--primary-Color);
+    color: var(--text-Color);
+}
+.footerb9fc05b1281e93c03 .copy-right-text a{
+    color: var(--primary-Color);
+}
