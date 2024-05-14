@@ -73,7 +73,7 @@
     font-size: var(--paragraph);
 }
 /* crunellaobWyteyCWzRLkMG */
-.serviceebfcf165e4ae5852{
+.crunellaobWyteyCWzRLkMG{
     padding: var(--section-padding);
 }
 .crunellaobWyteyCWzRLkMG h1 {
@@ -90,7 +90,7 @@
 }
 /* aboute50d5193e4b9f737 */
 .aboute50d5193e4b9f737{
-    padding-bottom: 7em;
+    padding: var(--section-padding);
 }
 .aboute50d5193e4b9f737 h2{
     font-size: var(--heading-large);
